@@ -1,9 +1,13 @@
 <h1 align="center">Hi 👋, I'm Akira Noda</h1>
-<h3 align="center">A student in Japan</h3>
+<h3 align="center">A university student in Japan</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tsugumi-sys" alt="tsugumi-sys" /></a> </p>
+- 🔭 I’m currently working on **rain prediction and system trading**
 
 - 🌱 I’m currently learning **Docker, Typescript, Machine Learning**
+
+- 👯 I’m looking forward to **work as a developer in the future**
+
+- ⚡ I like **fishing, rowing, cat**
 
 
 <h3 align="left">Languages and Tools:</h3>
